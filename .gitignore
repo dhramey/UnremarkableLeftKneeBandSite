@@ -1,0 +1,11 @@
+# GIT IGNORE FILE
+
+# other files
+
+images/original/
+images/*.psd
+images/*.ai
+
+*.mp3
+*.m4a
+*.ai
